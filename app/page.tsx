@@ -1,5 +1,5 @@
 "use client"
-import "../app/globals.css"
+import "./globals.css"
 import { useState, useEffect } from "react"
 import {
   ArrowRight,
